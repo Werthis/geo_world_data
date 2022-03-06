@@ -5,7 +5,9 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <h1>Geo data App</h1>
-      <div className="buttons"></div>
+      <div className="buttons">
+        <button>Button</button>
+      </div>
     </nav>
   );
 };
