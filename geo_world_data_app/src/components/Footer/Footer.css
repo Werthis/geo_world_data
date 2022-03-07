@@ -1,0 +1,14 @@
+.footer {
+  display: block;
+  align-items: center;
+  /* max-width: 1200px; */
+  padding: 20px;
+  margin-top: 60px;
+  color: #8b8b8b;
+  border-top: 2px solid #979797b9;
+}
+.copywright {
+  display: block;
+  text-align: center;
+  color: #8b8b8b;
+}
